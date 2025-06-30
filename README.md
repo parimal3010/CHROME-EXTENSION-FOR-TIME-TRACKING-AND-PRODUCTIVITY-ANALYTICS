@@ -18,3 +18,4 @@ The backend is developed using Node.js and Express, while the frontend is implem
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/b5d231a8-e54d-4a5a-903f-515dd389c847)
